@@ -1,4 +1,4 @@
-# Relayer for Tornado Cash [![Build Status](https://travis-ci.org/tornadocash/relayer.svg?branch=master)](https://travis-ci.org/tornadocash/relayer) [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/tornadocash/relayer.svg)](https://hub.docker.com/r/tornadocash/relayer/builds)
+# Relayer for Whodis.eth (forked from [Tornado Cash Relayer](https://github.com/tornadocash/relayer))
 
 ## Run locally
 1. `npm i`
